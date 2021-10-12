@@ -4,7 +4,7 @@ The e-commerce business is quite popular these days. Here, you do not need to ta
 
 Following steps have been taken to arrive at the final model:
 
-1. Data sourcing and sentiment analysis
+1. [Data sourcing and sentiment analysis](https://github.com/kevakba/cap_cap/blob/main/Data%20sourcing%20and%20sentiment%20analysis.ipynb)
     - 1.1 Exploratory data analysis
     - 1.2 Data cleaning
     - 1.3 Text preprocessing 
@@ -24,12 +24,12 @@ Following steps have been taken to arrive at the final model:
         - 1.5.12 Naive Bayes (with HT)
       
       
-2. Building a recommendation system
+2. [Building a recommendation system](https://github.com/kevakba/cap_cap/blob/main/Building%20a%20recommendation%20system.ipynb)
     - 2.1 User-based recommendation system
     - 2.2 Item-based recommendation system
   
 
-3. Improving the recommendations using the sentiment analysis model
+3. [Improving the recommendations using the sentiment analysis model](https://github.com/kevakba/cap_cap/blob/main/Final%20prediction.ipynb)
   
   
 4. Deploying the end-to-end project with a user interface
