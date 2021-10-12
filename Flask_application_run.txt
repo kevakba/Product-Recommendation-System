@@ -1,0 +1,13 @@
+The trained model has been deployed on the flask. To run the flask application, take the following steps:
+
+i. Fork the repository
+ii. Navigate into the forked repository in the Command Line Interface (CLI)
+iii. Run 'flask run' command in CLI
+iv. Open the server generated URL and play with the app
+
+Model has also been deployed on Heroku. Take the following steps to deploy a Heroku app:
+
+i. Fork the repository
+ii. Login to Heroku and create a new app
+iii. Fill in the required details, link the forked repository
+iv. All the required files have been made part of the main folder so straight away deploy the application
