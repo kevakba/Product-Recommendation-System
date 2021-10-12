@@ -32,4 +32,4 @@ Following steps have been taken to arrive at the final model:
 3. [Improving the recommendations using the sentiment analysis model](https://github.com/kevakba/cap_cap/blob/main/Final%20prediction.ipynb)
   
   
-4. Deploying the end-to-end project with a user interface
+4. [Deploying the end-to-end project with a user interface](https://github.com/kevakba/cap_cap/blob/main/Flask_application_run.txt)
