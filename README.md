@@ -1,4 +1,4 @@
-# Sentiment-based product recommendation system:
+# Sentiment-based product recommendation system
 
 The e-commerce business is quite popular these days. Here, you do not need to take orders by going to each customer. A company launches its website to sell the items to the end consumer, and customers can order the products that they require from the same website. Here I have built a model that will improve the recommendations provided to the different users, given their past product reviews and ratings. 
 
